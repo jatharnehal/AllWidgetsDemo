@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AllWidgetsDemo</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="phone_no">phone_no</string>
+    <string name="gander">Gander</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="subject">Subject</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="pick_birthday_dd_mm_yyy">Pick Birthday(DD/MM/YYY)</string>
+    <string name="sign_up">Sign up</string>
+    <string name="passwrod">passwrod</string>
+    <string name="other">Other</string>
+    <string name="gender">gender</string>
+</resources>
